@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="header">My Music - Best Music App</string>
+    <string name="button1">Play</string>
+    <string name="button2">Pause</string>
+    <string name="button3">Stop</string>
+    <string name="seekvolume">Set Volume</string>
+</resources>
